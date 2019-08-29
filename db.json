@@ -1,7 +1,7 @@
 // 20190829102128
 // https://jsonplaceholder.typicode.com/posts/
 {
-  posts:
+  "posts":
       [
         {
           "userId": 1,
